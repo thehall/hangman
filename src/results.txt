@@ -1,0 +1,48 @@
+loading words with length 3
+Number of words to play: 585
+[8, 19, 36, 46, 56, 66, 73, 64, 60, 51, 51, 31, 18, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 4
+Number of words to play: 2339
+[30, 88, 153, 239, 286, 337, 347, 289, 232, 150, 100, 57, 20, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 5
+Number of words to play: 4567
+[94, 292, 546, 762, 829, 755, 560, 358, 178, 104, 54, 22, 12, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 6
+Number of words to play: 7215
+[332, 884, 1355, 1544, 1306, 897, 459, 227, 106, 54, 29, 14, 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 7
+Number of words to play: 9816
+[849, 1929, 2418, 2093, 1310, 658, 328, 138, 51, 25, 13, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 8
+Number of words to play: 10374
+[1743, 3048, 2880, 1726, 699, 200, 59, 16, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 9
+Number of words to play: 9217
+[2553, 3506, 2195, 801, 148, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 10
+Number of words to play: 7329
+[3008, 2906, 1167, 225, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 11
+Number of words to play: 5012
+[2693, 1855, 429, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 12
+Number of words to play: 3176
+[1985, 1047, 137, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 13
+Number of words to play: 1778
+[1318, 427, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 14
+Number of words to play: 788
+[657, 123, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 15
+Number of words to play: 369
+[327, 39, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 16
+Number of words to play: 136
+[128, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 17
+Number of words to play: 61
+[58, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+loading words with length 18
+Number of words to play: 22
+[20, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
