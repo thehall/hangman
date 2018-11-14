@@ -15,7 +15,10 @@ The average number of guesses for each length (AI was set up to continue guessin
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |avg.guess| 6.42 | 5.67|4.36|3.35|2.58|1.76|1.19|0.82|0.56|0.42|0.28|0.18|0.12|0.06|0.05|0.09|
 
-Running PlayAllWords.py makes the computer try to guess every word in the dictionary and provides a frequency map of how many guesses are needed. (caution: 0.013 seconds average per word means about 13 minutes runtime on a i5 3.1ghz 4core cpu)
+Running PlayAllWords.py makes the computer try to guess every word in the dictionary and provides a frequency map of how many guesses are needed. (caution: 0.013 seconds average per word means about 13 minutes runtime on a i5 3.1ghz 4core cpu) 
+
+About the AI:
+At the start of a word it loads all words of that length into memory. After guessing a letter it eliminates words based on where that letter is in the word. The AI then makes a frequency map of the remaining letters/words to see which letter to guess next. If two or more letters are tied for highest frequency it will guess alphabetically (can easily be changed to random, but for analytics purposes alphabetically was chosen) 
 
 | errors | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
