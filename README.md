@@ -5,6 +5,10 @@ The dictionary used is user/share/dict/word which is freely available online and
 
 All words with length 1 or 2 as well as words containing special characters (apostrophe and hyphen) were removed from the dictionary. After all unwanted words were removed the dictionary contains 62784 unique words. These words were then split into seperate files based on their length so that the computer can load only words or correct length. Number of words for each length is as follows:
 
+![Words by Length](graphs_and_data/Number_of_Words.png)
+
+![words by length](graphs_and_data/Number_of_Words.png?raw=true "Words By Length")
+
 |Length| 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |words| 585 | 2339|4567|7215|9816|10374|9217|7329|5012|3176|1778|788|369|136|61|22|
