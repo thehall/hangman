@@ -20,6 +20,9 @@ Running PlayAllWords.py makes the computer try to guess every word in the dictio
 About the AI:
 At the start of a word it loads all words of that length into memory. After guessing a letter it eliminates words based on where that letter is in the word. The AI then makes a frequency map of the remaining letters/words to see which letter to guess next. If two or more letters are tied for highest frequency it will guess alphabetically (can easily be changed to random, but for analytics purposes alphabetically was chosen) 
 
+The Hangman AI guesses the word "Hangman" with 3 errors (e,i,d). The order of the guesses will be e,i,a,n,m,d,g,h. The first guess will depend on how long the word is. Among three letter words the most common letter is a, four letter words have e as the most common letter. 
+ 3:a, 4:e, 5:s, 6:e, 7:e, 8:e, 9:e, 10:e, 11:e, 12:i, 13:i, 14:i, 15:i, 16:i, 17:i, 18:i. The prevalence of -ing and -tion ending is the reason words with 12 or more letters have i as the most common character. The AI will try to delay mistakes as long as possible. If for example it the word is s_o_er and the options are narrowed down to "slower" and "shower" it will guess the "w" before checking if the second letter is "l" or "h"
+
 | errors | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 3 | 8    | 19   | 36   | 46   | 56   | 66 | 73 | 64 | 60 | 51 | 51 | 31 | 18 | 5 | 1 | 0 | 0 |
